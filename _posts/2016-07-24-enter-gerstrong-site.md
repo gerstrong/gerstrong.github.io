@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Gerstrongs uploads lazily a new site"
 date: 2016-07-24
 ---
 
