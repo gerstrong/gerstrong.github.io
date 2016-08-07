@@ -4,7 +4,7 @@ title: "Building Commander Genius under Windows 7"
 date: 2014-09-07
 ---
 
-<b>Note</b>: This is an old article I had one my old wordpress server.
+<b>Note</b>: This is an old article I had on my old wordpress server.
 
 There is a document around the internet (<a href="ftp://ftp.heanet.ie/disk1/sourceforge/c/cl/clonekeenplus/CGenius/CompileCGunderWindows.pdf" title="link">here for example</a>) I wrote some years ago in how to setup the source code of Commander Genius under Windows 7 the way you can compile it yourself and do changes wherever necessary.
 

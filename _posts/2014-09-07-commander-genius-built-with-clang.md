@@ -4,7 +4,7 @@ title: "Commander Genius built with Clang"
 date: 2014-09-07
 ---
 
-<b>Note</b>: This is an old article I had one my old wordpress server.
+<b>Note</b>: This is an old article I had on my old wordpress server.
 
 Since I got some time on my hands I decided to take a look at the hype of LLVM and thought well how does it works with Commander Genius...
 
