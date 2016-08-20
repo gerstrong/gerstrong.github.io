@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hacking VTK for Parallelisation (MPI)"
+title: "Hacking VTK for Parallelisation (MPI and C++)"
 date: 2016-08-20
 ---
 
